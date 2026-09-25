@@ -1,0 +1,8 @@
+[submodule "2026-Unity-VRTest"]
+	path = 2026-Unity-VRTest
+	url = https://github.com/Oshota501/2026-Unity-VRTest
+	branch = main
+[submodule "2026originBusinessBackend"]
+	path = 2026originBusinessBackend
+	url = https://github.com/Oshota501/2026originBusinessBackend
+	branch = main
